@@ -26,6 +26,12 @@
 			<scope>test</scope>
 		</dependency>
 		
+		<dependency>
+    			<groupId>org.sonarsource.java</groupId>
+    			<artifactId>sonar-java-plugin</artifactId>
+    			<version>7.1.0.26670</version>
+		</dependency>
+		
 	</dependencies>
 	
 	<distributionManagement>
