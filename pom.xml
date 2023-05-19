@@ -25,13 +25,7 @@
 			<version>3.8.1</version>
 			<scope>test</scope>
 		</dependency>
-		
-		<dependency>
-    			<groupId>org.sonarsource.java</groupId>
-    			<artifactId>sonar-java-plugin</artifactId>
-    			<version>7.1.0.26670</version>
-		</dependency>
-		
+				
 	</dependencies>
 	
 	<distributionManagement>
@@ -65,7 +59,7 @@
 			<plugin>
         			<groupId>org.sonarsource.scanner.maven</groupId>
         			<artifactId>sonar-maven-plugin</artifactId>
-        			<version>3.8.0</version>
+        			<version>3.6.0.1398</version>
       			</plugin>
 
         	</plugins>
